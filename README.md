@@ -1,5 +1,4 @@
-# Transfer-pack
-Sincronizar repo
+
 import subprocess
 
 def run_command(command):
